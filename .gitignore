@@ -1,3 +1,15 @@
+# local files
+Lab*.ipynb
+testing.ipynb
+rlhf_model_alignment.ipynb
+data/
+.env
+dialogue-summary-training-*/
+peft-dialogue-summary-training-*/
+peft-dialogue-summary-checkpoint-local/
+lecture_notes/
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

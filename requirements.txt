@@ -1,0 +1,7 @@
+torchdata
+datasets
+transformers
+evaluate
+loralib
+rouge_score
+peft
